@@ -116,7 +116,7 @@
 
 
   input[type="submit"]:hover {
-    background-color: #282c34;
+    background-color: #2f6be2;
     color: antiquewhite;
   }
 
